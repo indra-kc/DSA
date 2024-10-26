@@ -2,6 +2,22 @@
 
 A collection of essential Data Structures and Algorithms implemented in Python.
 
+
+# Contributing Guide
+
+Thank you for considering contributing! Here’s a quick guide to get you started:
+
+## Steps to Contribute
+
+1. **Fork the Repository**  
+   Click the "Fork" button on the repository page to create a copy in your GitHub account.
+
+2. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/indra-kc/DSA.git
+
+
+
 # Installing Python on Ubuntu
 
 Follow these steps to install Python on Ubuntu.
