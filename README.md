@@ -2,6 +2,65 @@
 
 A collection of essential Data Structures and Algorithms implemented in Python.
 
+
+# Contributing Guide
+
+Thank you for considering contributing! Here’s a quick guide to get you started:
+
+## Steps to Contribute
+
+1. **Fork the Repository**  
+   Click the "Fork" button on the repository page to create a copy in your GitHub account.
+
+2. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/indra-kc/DSA.git
+
+   ## Create a branch
+
+Change to the repository directory on your computer (if you are not already there):
+
+```bash
+cd DSA
+```
+
+Now create a branch using the `git switch` command:
+
+```bash
+git switch -c your-new-branch-name
+```
+
+For example:
+
+```bash
+git switch -c add-graph-xy
+```
+
+## Make necessary changes and commit those changes
+
+Now commit those changes using the `git commit` command:
+
+```bash
+git commit -m "your-changes-here."
+```
+
+
+
+## Push changes to GitHub
+
+Push your changes using the command `git push`:
+
+```bash
+git push -u origin your-branch-name
+```
+## Guidelines
+
+- **Keep PRs Focused**: Try to include only one feature or bug fix per Pull Request.
+- **Follow Code Style**: Adhere to the project’s code conventions and styling.
+- **Write Clear Commit Messages**: Describe what changes were made and why.
+- **Add Tests (If Necessary)**: Include tests if your changes introduce new functionality.
+
+
 # Installing Python on Ubuntu
 
 Follow these steps to install Python on Ubuntu.
