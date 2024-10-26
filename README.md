@@ -16,6 +16,44 @@ Thank you for considering contributing! Here’s a quick guide to get you starte
    ```bash
    git clone https://github.com/indra-kc/DSA.git
 
+   ## Create a branch
+
+Change to the repository directory on your computer (if you are not already there):
+
+```bash
+cd DSA
+```
+
+Now create a branch using the `git switch` command:
+
+```bash
+git switch -c your-new-branch-name
+```
+
+For example:
+
+```bash
+git switch -c add-graph-xy
+```
+
+## Make necessary changes and commit those changes
+
+Now commit those changes using the `git commit` command:
+
+```bash
+git commit -m "your-changes-here."
+```
+
+
+
+## Push changes to GitHub
+
+Push your changes using the command `git push`:
+
+```bash
+git push -u origin your-branch-name
+```
+
 
 
 # Installing Python on Ubuntu
