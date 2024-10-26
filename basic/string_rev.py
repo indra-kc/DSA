@@ -1,3 +1,3 @@
 s = "hello"
 reversed_s = s[::-1]
-print(reversed_s)  
+print(reversed_s)  # Output: "olleh"
