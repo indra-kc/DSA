@@ -54,6 +54,12 @@ Push your changes using the command `git push`:
 git push -u origin your-branch-name
 ```
 
+## Guidelines
+Keep PRs Focused: Try to include only one feature or bug fix per Pull Request.
+Follow Code Style: Adhere to the project’s code conventions and styling.
+Write Clear Commit Messages: Describe what changes were made and why.
+Add Tests (If Necessary): Include tests if your changes introduce new functionality.
+
 
 
 # Installing Python on Ubuntu
